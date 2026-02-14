@@ -28,28 +28,6 @@ Cloud-driven DevOps Engineer with 3+ years of experience building scalable infra
 - Troubleshoot and optimize Linux-based production systems
 - Improve deployment reliability and automation workflows
 
----
-
-## 📌 Featured Projects (Add Your Best Repos Here)
-
-### 🚀 AWS Infrastructure with Terraform
-Provisioned VPC, EC2, Load Balancer, and RDS using reusable Terraform modules.
-
-### ⚙️ Jenkins CI/CD Pipeline
-Automated build, test, Docker image creation, and deployment to cloud environment.
-
-### ☸️ Kubernetes Deployment
-Deployed containerized microservices with scaling and rolling updates.
-
----
-
-## 📊 GitHub Stats
-
-![Bhargavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavi-111&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi-111&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=bhargavi-111&theme=tokyonight)
-
----
 
 ## 🎯 Career Goal
 
